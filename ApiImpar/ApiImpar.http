@@ -1,0 +1,6 @@
+@ApiImpar_HostAddress = http://localhost:5032
+
+GET {{ApiImpar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
